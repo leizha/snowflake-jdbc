@@ -10,17 +10,17 @@
   <name>snowflake-jdbc</name>
   <url>http://maven.apache.org</url>
 
-  <repositories>
-    <repository>
-      <id>Central</id>
-      <name>Internal Central Repo2</name>
-      <layout>default</layout>
-      <url>https://nexus.int.snowflakecomputing.com/repository/maven-central/</url>
-      <snapshots>
-        <enabled>false</enabled>
-      </snapshots>
-    </repository>
-  </repositories>
+<!--  <repositories>-->
+<!--    <repository>-->
+<!--      <id>Central</id>-->
+<!--      <name>Internal Central Repo2</name>-->
+<!--      <layout>default</layout>-->
+<!--      <url>https://nexus.int.snowflakecomputing.com/repository/maven-central/</url>-->
+<!--      <snapshots>-->
+<!--        <enabled>false</enabled>-->
+<!--      </snapshots>-->
+<!--    </repository>-->
+<!--  </repositories>-->
 
   <prerequisites>
     <maven>3.3.9</maven>
